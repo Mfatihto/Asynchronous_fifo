@@ -1,2 +1,2 @@
-# Asyncronious_fifo_verilog
+# Async FIFO
 Async Fifo Design in Verilog/RTL
