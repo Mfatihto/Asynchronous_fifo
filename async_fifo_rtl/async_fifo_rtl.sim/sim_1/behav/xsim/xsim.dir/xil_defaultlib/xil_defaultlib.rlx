@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/async_fifo_rtl.v,1695902404,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/fifo_mem.v,,async_fifo_rtl,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/async_fifo_rtl_tb.v,1695903884,verilog,,,,async_fifo_rtl_tb,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/fifo_mem.v,1695740302,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/rptr_empty.v,,fifo_mem,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/rptr_empty.v,1695890271,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/sync_r2w.v,,rptr_empty,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/sync_r2w.v,1695889037,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/sync_w2r.v,,sync_r2w,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/sync_w2r.v,1695739605,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/wptr_full.v,,sync_w2r,,,,,,,,
+E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/wptr_full.v,1695890254,verilog,,E:/Xlinix Projects/async_fifo_rtl/async_fifo_rtl.srcs/sources_1/new/async_fifo_rtl_tb.v,,wptr_full,,,,,,,,
