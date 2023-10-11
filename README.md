@@ -8,7 +8,7 @@ Sources that I've used to create this article
 -> Cliff Cummings's Async. FIFO paper : http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_FIFO1.pdf
 
 
--> Digital Design and Computer Architecture Second Edition by David Money Harris & Sarah L. Harris
+-> Digital Design and Computer Architecture Second Edition by David Money Harris & Sarah L. Harris : Chapter 5.5 Memory Arrays & starting from page 263 
 
 
 -> Crossing clock domains with an Asynchronous FIFO, an article from zipcpu blog site : https://zipcpu.com/blog/2018/07/06/afifo.html
