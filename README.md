@@ -1,4 +1,4 @@
-![image](https://github.com/Mfatihto/Asynchronous_fifo/assets/86986006/905e2c85-0a48-428d-960f-dab23f8e0ef3)
+
 # Async FIFO
 Async Fifo Design in Verilog/RTL
 
@@ -14,5 +14,5 @@ Sources that I've used to create this article
 
 -> Crossing clock domains with an Asynchronous FIFO, an article from zipcpu blog site : https://zipcpu.com/blog/2018/07/06/afifo.html
 
-The Digital Block Diagram of The Async. FIFO
-
+# The Digital Block Diagram of The Async. FIFO
+![image](https://github.com/Mfatihto/Asynchronous_fifo/assets/86986006/905e2c85-0a48-428d-960f-dab23f8e0ef3)
